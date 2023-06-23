@@ -3,4 +3,4 @@ In this project, the bot will type in the website like TypeRacer it will do this
 
 to run the program
 
-create the environment using the requirements.txt and then run the command python main.py 
+create the environment using the requirements.txt and then run the command - python main.py 
